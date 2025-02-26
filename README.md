@@ -12,6 +12,8 @@ This project generates videos from text descriptions using **Stable Diffusion**,
 ✅ OpenCV for video processing  
 
 ---
+## Demo Video 🎥  
+[Watch the Demo on YouTube](https://youtube.com/shorts/yEgU3Rb0MRs?si=NDwcBfcfhe3sgWh-)
 
 ## 🛠️ Tech Stack  
 - **Python 3.8+**  
